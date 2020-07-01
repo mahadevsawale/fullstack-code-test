@@ -24,14 +24,14 @@ Critical issues (required to complete the assignment):
 
 Frontend/Web track:
 - We want full create/update/delete functionality for services - DONE
-- The results from the poller are not automatically shown to the user (you have to reload the page to see results)
-- We want to have informative and nice looking animations on add/remove services
+- The results from the poller are not automatically shown to the user (you have to reload the page to see results) - UNDONE
+- We want to have informative and nice looking animations on add/remove services - UNDONE
 
 Backend track
 - Simultaneous writes sometimes causes strange behavior - DONE
 - Protect the poller from misbehaving services (for example answering really slowly) - DONE
 - Service URL's are not validated in any way ("sdgf" is probably not a valid service) - >DONE
-- A user (with a different cookie/local storage) should not see the services added by another user
+- A user (with a different cookie/local storage) should not see the services added by another user - UNDONE
 
 Spend maximum four hours working on this assignment - make sure to finish the issues you start.
 
